@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @akshaysing
+- 👀 I’m interested in devops tools like jenkins, git, ansible, chef, terraform, docker and kubernetes.
+- 🌱 I’m currently learning kubernetes, chef and terraform.
+- 📫 How to reach me at akshay.singh95@yahoo.com
